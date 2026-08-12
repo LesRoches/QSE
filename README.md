@@ -18,6 +18,7 @@ papers/
 
 - [Redding (2016), Goods Trade, Factor Mobility and Welfare](papers/redding-2016-goods-trade-factor-mobility-and-welfare/README.md)
 - [Allen and Arkolakis (2014), Trade and the Topography of the Spatial Economy](papers/allen-arkolakis-2014-trade-and-the-topography-of-the-spatial-economy/README.md)
+- [Miyauchi (2024), Matching and Agglomeration](papers/miyauchi-2024-matching-and-agglomeration/README.md)
 
 ## 收录原则
 
